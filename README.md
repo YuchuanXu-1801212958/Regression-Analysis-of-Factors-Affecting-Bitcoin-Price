@@ -1,0 +1,2 @@
+# Regression-Analysis-of-Factors-Affecting-Bitcoin-Price
+I will analyze the trend of bitcoin prices in the form of “human behavior” and “positivism”and deliver Regression Analysis of Factors Affecting Bitcoin Price. First, according to the mainstream news media report analysis, including security events, national policies, market recognition, forks and altcoins. Secondly, use the mining difficulty, keyword search volume and news report sentiment tendency to analyze the price trend of Bitcoin. 
